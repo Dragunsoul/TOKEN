@@ -1,0 +1,2 @@
+# TOKEN
+My own cryptocurrency
